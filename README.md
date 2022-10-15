@@ -8,4 +8,4 @@
 
 * Para generar el modelo PSM y transformar a lenguaje JAVA, se debe usar la herramienta online https://cruise.umple.org/umpleonline/.
 
-* Una de las problemáticas debe ser probada mediante un IDE de programación.
+* Una de las problemáticas debe ser probada.
